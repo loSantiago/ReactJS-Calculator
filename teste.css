@@ -1,0 +1,16 @@
+.App-header {
+  background-color: #ffccee;
+}
+
+button {
+  padding: 15px;
+  border: solid 1px #ccc;
+  color: #fff;
+  background-color: #1233FF;
+  border-radius: 15px;
+  font-weight: bold;
+}
+
+button:hover{
+  background-color: #1010AA;
+}
